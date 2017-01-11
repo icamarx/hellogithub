@@ -5,4 +5,6 @@ sprememba
 
 sprememba na netu
 
+
+se mau spremenjen
 u lej sprememba
