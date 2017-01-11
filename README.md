@@ -4,3 +4,5 @@ Prva ura gita
 sprememba
 
 sprememba na netu
+
+se mau spremenjen
